@@ -26,12 +26,12 @@ Before running this script, ensure you have the following basic tools installed 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ReconAuto.git
-   cd ReconAuto
+   git https://github.com/nusaibnull/nuclei-Recon.git
+   cd nuclei-Recon
    ```
 
 2. **Configure Telegram Bot:**
-   Open the script (`gemini-code-1790927486919.sh`) in any text editor and replace the placeholder values with your actual Telegram Bot Token and Chat ID:
+   Open the script (`run_nuclei.sh`) in any text editor and replace the placeholder values with your actual Telegram Bot Token and Chat ID:
    ```bash
    TELEGRAM_BOT_TOKEN="YOUR_BOT_TOKEN_HERE"
    TELEGRAM_CHAT_ID="YOUR_CHAT_ID_HERE"
@@ -39,13 +39,13 @@ Before running this script, ensure you have the following basic tools installed 
 
 3. **Make the script executable:**
    ```bash
-   chmod +x gemini-code-1790927486919.sh
+   chmod +x run_nuclei.sh
    ```
 
 ## 🎯 How to Run
 Execute the script from your terminal:
 ```bash
-./gemini-code-1790927486919.sh
+./run_nuclei.sh
 ```
 When prompted, enter your target domain (e.g., `example.com`). The script will handle the rest, automatically create a `subdomain_list` directory, save the results there as `<target>_subdomain.txt`, and notify you on Telegram throughout the process!
 
