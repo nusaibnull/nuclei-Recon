@@ -52,7 +52,7 @@ When prompted, enter your target domain (e.g., `example.com`). The script will h
 ## Run Cloud Shell
 
 <p align="left">
-  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/nusaibnull/https://github.com/nusaibnull/nuclei-Recon.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
+  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/nusaibnull/nuclei-Recon.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
 </p>
 
 ## ⚠️ Disclaimer
