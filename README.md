@@ -49,5 +49,11 @@ Execute the script from your terminal:
 ```
 When prompted, enter your target domain (e.g., `example.com`). The script will handle the rest, automatically create a `subdomain_list` directory, save the results there as `<target>_subdomain.txt`, and notify you on Telegram throughout the process!
 
+## Run Cloud Shell
+
+<p align="left">
+  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/nusaibnull/https://github.com/nusaibnull/nuclei-Recon.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
+</p>
+
 ## ⚠️ Disclaimer
 This script is intended for educational purposes and authorized security testing only. Do not use this tool against targets you do not have explicit permission to test.
