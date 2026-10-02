@@ -3,7 +3,7 @@
 # ==========================================
 # Telegram Bot Info (Provide your details here)
 # ==========================================
-TELEGRAM_BOT_TOKEN="884OxeKZ6mYmqM2Wiy5r04vicSYXr5CAw"
+TELEGRAM_BOT_TOKEN="884OxeKZWiy5r04vicSYXr5CAw"
 TELEGRAM_CHAT_ID="2063"
 
 # Function to send Telegram messages
